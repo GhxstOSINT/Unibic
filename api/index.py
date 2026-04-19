@@ -159,7 +159,7 @@ def index():
                 
                 <div class='bg-black/50 border border-[#39ff14]/40 p-4 font-mono text-sm break-all'>
                     <span class='text-[#39ff14]/50'>DECRYPTED_PAYLOAD: </span>
-                    <strong class='text-[#39ff14] text-lg cyber-font tracking-wider'>CTF{c00k13_m0nst3r_m41nfr4m3_h4ck3d}</strong>
+                    <strong class='text-[#39ff14] text-lg cyber-font tracking-wider'>Cruxhunt{c00k13_m0nst3r_m41nfr4m3_h4ck3d}</strong>
                 </div>
             </div>
             
